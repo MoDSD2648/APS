@@ -1,0 +1,7 @@
+**/__pycache__/
+*.py[cod]
+.venv/
+.maven-cache*/
+**/target/
+central-server/data/*.db*
+/tools/
